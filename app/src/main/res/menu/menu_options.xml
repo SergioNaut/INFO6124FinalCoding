@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/normal_map"
+        android:title="@string/the_map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add_address"
+        android:title="@string/add_address"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/calendar"
+        android:title="@string/calendar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        app:showAsAction="never" />
+
+</menu>
